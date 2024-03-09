@@ -1,0 +1,27 @@
+main > container {
+
+    padding: 98px 50px;
+}
+
+.principal_detalles {
+    display: flex;
+    align-items: center;
+}
+
+.imagen_detalle {
+    max-width: 100%; /* Ajusta el tamaño máximo de la imagen al 100% del contenedor */
+    height: auto; /* Mantiene la proporción original de la imagen */
+}
+
+.no-aparece{
+    display: block !important;
+}
+
+.copyright{
+    color: #fff;
+}
+
+
+.main{
+    min-height:90vh;
+}
