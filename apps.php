@@ -128,7 +128,7 @@
   
  <script>
         function compra(){
-            window.location.href = "comprar.php";
+            window.location.href = "apps.php";
         }
     </script>
 
